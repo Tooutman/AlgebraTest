@@ -1,6 +1,6 @@
 # AlgebraTest
 
-##Kako se razcvijati projekt
+## Kako se razcvijati projekt
 TBD
 
 ## Kako kompajlirati i pokrenuti
